@@ -38,6 +38,7 @@
         android:layout_below="@+id/plus"
         android:layout_centerHorizontal="true"
         android:text="ADD"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        android:id="@+id/add"/>
 
 </RelativeLayout>
